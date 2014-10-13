@@ -3,7 +3,7 @@ PATH
   specs:
     warden_delegated (0.0.1)
       orm_adapter (~> 0.1)
-      warden (~> 1.2.3)
+      warden (~> 1.2)
 
 GEM
   remote: https://rubygems.org/
