@@ -1,3 +1,5 @@
+require 'warden'
+
 module Warden
   module Delegated
   end

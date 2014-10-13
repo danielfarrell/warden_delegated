@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    warden_delegated (0.0.1)
+    warden_delegated (0.0.2)
       orm_adapter (~> 0.1)
       warden (~> 1.2)
 
