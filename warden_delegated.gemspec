@@ -14,6 +14,8 @@ Gem::Specification.new do |gem|
 
   gem.files = Dir["**/*"].select { |d| d =~ %r{^(README|bin/|lib/)} }
 
+  gem.licenses = ["MIT"]
+
   gem.add_dependency("warden", "~> 1.2")
   gem.add_dependency("orm_adapter", "~> 0.1")
 
