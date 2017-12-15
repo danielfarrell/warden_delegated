@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
 
   gem.licenses = ["MIT"]
 
-  gem.add_dependency("warden", "~> 1.2")
-  gem.add_dependency("orm_adapter", "~> 0.1")
+  gem.add_dependency("warden", "~> 1.2.3")
+  gem.add_dependency("orm_adapter", "0.5.0")
 
 end
